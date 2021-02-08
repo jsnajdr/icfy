@@ -4,15 +4,15 @@
   "description": "ICFY backend services",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "knex": "^0.21.12",
+    "axios": "0.19.2",
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "knex": "0.21.12",
     "lodash": "^4.17.15",
-    "mysql": "^2.18.1",
-    "nconf": "^0.8.5",
-    "rimraf": "^3.0.2",
-    "text-table": "^0.2.0",
-    "webpack-bundle-analyzer": "^3.6.0"
+    "mysql": "2.18.1",
+    "nconf": "0.8.5",
+    "rimraf": "3.0.2",
+    "text-table": "0.2.0",
+    "webpack-bundle-analyzer": "3.6.0"
   }
 }
